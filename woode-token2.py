@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+#-*- coding: utf-8 -*-
+
+# made with love by Woode
+ (https://github.com/Ahmed-Woode)
+
 import ​requests, r
 
 print('\n** < GET FB ACCESS TOKEN FROM COOKIE > **\n')
